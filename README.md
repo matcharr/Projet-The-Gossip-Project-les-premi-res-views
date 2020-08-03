@@ -5,6 +5,7 @@ Amélioration du site de The Gossip Project
 	bundle install
 	rails db:create
 	rails db:migrate
+    rails db:seeds
 	rails server
 	Aller sur l'url :
 	localhost:3000
